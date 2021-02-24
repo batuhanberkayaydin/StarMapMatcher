@@ -1,7 +1,7 @@
 # 4DSightMatcher
 Case Study
 
-Runing Code:
+For Runing Code:
 
 make
 
